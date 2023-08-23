@@ -10,13 +10,13 @@
 ### À executer:
 
 ```bash
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-sudo python get-pip.py
+sudo apt-get install python2-dev
+curl -O https://bootstrap.pypa.io/pip/2.7/get-pip.py
+sudo python2 get-pip.py
 ```
 
 ```bash
 pip2 install --upgrade setuptools
-sudo apt-get install python2-dev
 pip2 install pycrypto 
 pip2 install distorm3
 ```
