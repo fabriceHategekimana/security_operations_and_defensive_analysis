@@ -10,9 +10,15 @@
 ### À executer:
 
 ```bash
-1. pip install --upgrade setuptools
-2. sudo apt-get install python2-dev
-3. pip2 install pycrypto && pip install distorm3
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+sudo python get-pip.py
+```
+
+```bash
+pip2 install --upgrade setuptools
+sudo apt-get install python2-dev
+pip2 install pycrypto 
+pip2 install distorm3
 ```
  
 ### À télécharger
