@@ -2,7 +2,8 @@
 
 ## Télécharger et installer snort:
 
-- [lien](https://www.snort.org/)
+- [lien1](https://www.snort.org/)
+- [lien2](https://kifarunix.com/install-and-configure-snort-3-on-ubuntu/)
 
 ## Part 1
 
