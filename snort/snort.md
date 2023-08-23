@@ -7,7 +7,3 @@
 ## Part 1
 
 - faire le tryhackme sur [snort](https://tryhackme.com/room/snort)
-
-## Part 2
-
-
