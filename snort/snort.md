@@ -2,8 +2,7 @@
 
 ## Télécharger et installer snort:
 
-- [lien1](https://www.snort.org/)
-- [lien2](https://kifarunix.com/install-and-configure-snort-3-on-ubuntu/)
+- [lien](https://ninocrudele.com/how-to-install-snort-in-kali-and-any-linux-container-the-quick-way)
 
 ## Part 1
 
