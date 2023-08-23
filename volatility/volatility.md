@@ -18,6 +18,23 @@
 ### À télécharger
 - [lien1](https://github.com/volatilityfoundation/volatility)  
 
+## Mettre la commande en alias
+
+```bash
+nano ~/.zsh
+```
+
+## Ajouter cette ligne:
+
+```bash
+alias volatility="python2 ~/volatility-master/vol.py"
+```
+
+## Sourcer la configuration
+```bash
+source ~/.zsh
+```
+
 ## Part 1
 
 - Téléchargez le fichier [memdump1](https://www.swisstransfer.com/d/bc165e15-59e6-499f-9978-f4e5cf27fefd)  
