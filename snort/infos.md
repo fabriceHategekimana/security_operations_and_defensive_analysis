@@ -58,6 +58,12 @@ snort -c <configuration_file> -R <rule_file>
 
 ## Les règles Snort
 
+### Syntax
+```
+[Action] [Protocol] [IP1] [Port1] -> [IP2] [Port2] [([Option1, Option2, etc.])]
+```
+
+### Exemple
 ```
 alert ip any any -> any any (msg: "IP Packet detected";)
 ```
