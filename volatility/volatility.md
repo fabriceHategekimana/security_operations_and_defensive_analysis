@@ -2,8 +2,22 @@
 
 ## Télécharchez et installer Volatility 2: 
 
+### prerequisite
+
+- git (optionel)
+- python2
+
+### À executer:
+
+```bash
+1. pip install --upgrade setuptools
+2. sudo apt-get install python2-dev
+3. pip2 install pycrypto && pip install distorm3
+```
+ 
+### À télécharger
 - [lien1](https://github.com/volatilityfoundation/volatility)  
-- [lien2](https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet)
+
 ## Part 1
 
 - Téléchargez le fichier [memdump1](https://www.swisstransfer.com/d/bc165e15-59e6-499f-9978-f4e5cf27fefd)  
