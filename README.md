@@ -7,6 +7,8 @@
 
 ## Examen
 
+vm: https://www.swisstransfer.com/d/b5de8301-6419-4d38-96a2-e29a98f772ac  
+
 Écrit 
 - QCM + question de réflexion
 - Cours exercices vus
